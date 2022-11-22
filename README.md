@@ -1,11 +1,4 @@
 # roleta-russa
 Simulador de roleta russa desenvolvido em Python, quando o jogador tiver a "má sorte" o pc desliga. 
 
- ____   ___   _        ___ ______   ____      ____  __ __  _____ _____  ____ 
-|    \ /   \ | |      /  _]      | /    |    |    \|  |  |/ ___// ___/ /    |
-|  D  )     || |     /  [_|      ||  o  |    |  D  )  |  (   \_(   \_ |  o  |
-|    /|  O  || |___ |    _]_|  |_||     |    |    /|  |  |\__  |\__  ||     |
-|    \|     ||     ||   [_  |  |  |  _  |    |    \|  :  |/  \ |/  \ ||  _  |
-|  .  \     ||     ||     | |  |  |  |  |    |  .  \     |\    |\    ||  |  |
-|__|\_|\___/ |_____||_____| |__|  |__|__|    |__|\_|\__,_| \___| \___||__|__|
-                                                                             
+![image](https://user-images.githubusercontent.com/100814579/203397483-ed420ee9-b59f-462e-8efc-867396a6af78.png)
